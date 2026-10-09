@@ -1,7 +1,10 @@
 # %% [markdown]
 # # RSM317 – Group Assignment 1: Cleaning and Parsing SEC Form 10-K Filings
 #
-# **Team members:** _(add names and student numbers)_
+# **Team members:**
+# - Vladislav Glotov, Student ID: 1010946620
+# - Ryosuke Fukui, Student ID: 1013980694
+# - Andrew Ding, Student ID: 1009932218
 #
 # **Goal.** For the Rotman Investment Club we build a small proof-of-concept pipeline that takes the latest
 # annual report (Form 10-K) of ten large US companies as plain HTML, removes the HTML tags, checks the
